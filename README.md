@@ -1,1 +1,1 @@
-# Linkedin-Job-Posts-Prediction
+LJP prediction
